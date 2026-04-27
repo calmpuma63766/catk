@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28" role="img" aria-label="Visit DuctTape3">
+  <title>Visit DuctTape3</title>
+  <g shape-rendering="crispEdges">
+    <rect width="58" height="28" fill="#111827"/>
+    <rect x="58" width="112" height="28" fill="#7c3aed"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <a target="_blank" href="https://ducttape3.org/?utm_source=github&amp;utm_medium=svg_badge&amp;utm_campaign=gpt2_images_showcase">
+      <rect width="170" height="28" fill="rgba(0,0,0,0)"/>
+      <text transform="scale(.1)" x="290" y="175" textLength="340">VISIT</text>
+      <text transform="scale(.1)" x="1140" y="175" textLength="850" font-weight="bold">DUCTTAPE3.ORG</text>
+    </a>
+  </g>
+</svg>
